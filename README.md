@@ -18,4 +18,6 @@
 4. menambahkan gambar pada web dengan menggunakan tag <img>
   ![image](https://github.com/user-attachments/assets/95e869a2-0b83-4be5-8934-e9d615c0599a)
 5. menambahkan hyperlink
-   ![image](https://github.com/user-attachments/assets/7d94f612-9894-48e1-a57c-82d2e6987955)
+   ![image](https://github.com/user-attachments/assets/8fdb0c1c-fb72-4789-a728-e120dddfeb98)
+
+
